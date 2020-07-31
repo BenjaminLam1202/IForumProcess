@@ -65,11 +65,6 @@ MAIL_FROM_NAME="${APP_NAME}"
 ```
 okay you good to go 
 
-## Built With
-
-* [pragmarx](https://github.com/antonioribeiro/google2fa-laravel)
-* [BaconQrCode](https://github.com/Bacon/BaconQrCode)
-
 ## Authors
 
 * **Benjamin Lam- Lâm Thái Gia Huy** - who participated in this project.
