@@ -73,6 +73,7 @@ okay you good to go
 
 * code for anyone who need anyone whose code was used
 * Inspiration
+* Be brave enough to beat anything
 * still in progress
 * etc
 
