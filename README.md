@@ -16,10 +16,6 @@ https://laravel.com/docs/7.x
 ### Installing
 
 some package require that you will need
-
-```
-composer create-project --prefer-dist laravel/laravel blog
-```
 ```
 composer require guzzlehttp/guzzle
 ```
